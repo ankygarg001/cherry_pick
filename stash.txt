@@ -1,0 +1,1 @@
+stash command is used to pick up the file without performing the commit.
